@@ -23,6 +23,7 @@ The **German Credit Dataset** contains **1,000 loan applications** and a binary 
 | Train / Test Split | 80% / 20% |
 
 The dataset contains numerical and categorical information such as age, credit amount, loan duration, checking account status, saving account status, housing, job, and loan purpose.
+<img width="3000" height="2100" alt="image" src="https://github.com/user-attachments/assets/1db8055c-a7b3-4318-a919-55156c7d7360" />
 
 ---
 
